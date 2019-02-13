@@ -54,6 +54,7 @@ service:smile
 :123456
 Admin:admin
 ADMIN:admin
+vodafone:vodafone
 tech:tech
 :secret
 administrator:password
